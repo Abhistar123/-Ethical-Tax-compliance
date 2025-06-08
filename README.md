@@ -4,9 +4,9 @@ A modern, AI-powered chatbot platform for ethical tax guidance. This project lev
 
 ---
 
-## 🌐 AI Responsible Investing Platform
+## 🌐 AI Powered Ethical Chat bot.
 
-This bot serves as a digital ethical assistant for individuals and small businesses, promoting transparency, compliance, and responsible financial behavior.
+This bot serves as a digital ethical assistant for tax compliance.
 
 ---
 
@@ -17,22 +17,6 @@ This bot serves as a digital ethical assistant for individuals and small busines
 * Real-time assistant typing animation
 * Message streaming and scroll-to-bottom
 * Secure API handling with `.env` for Gemini key
-
----
-
-## 📊 Advanced Market Sentiment Analysis (Future Scope)
-
-* Integrate real-time tax law updates
-* Analyze taxpayer sentiment via NLP
-* Tax planning recommendation engine
-
----
-
-## 💼 Financial Analytics (Future Scope)
-
-* Expense category tracking
-* Automated tax-saving suggestions
-* Year-end financial summaries
 
 ---
 
